@@ -1,0 +1,17 @@
+<!--
+ - Created by 2lego on 21.02.2024.
+ -->
+
+<aura:component controller="CarRentDAO" implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <!-- Changed type from AvailableCars[] to object -->
+    <aura:attribute name="cars" type="object" />
+    <aura:attribute name="columns" type="List" />
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+    <!-- Use the data attribute to bind the cars object, which will be an array in the actual implementation -->
+    <lightning:datatable data="{!v.cars}"
+                         columns="{!v.columns}"
+                         keyField="Id"
+                         hideCheckboxColumn="true"/>
+</aura:component>

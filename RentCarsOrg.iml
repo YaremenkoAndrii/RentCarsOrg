@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="GENERAL_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IlluminatedCloud" name="Illuminated Cloud">
+      <configuration>
+        <option name="connectionName" value="RentCarsOrg" />
+        <option name="connectionType" value="OAUTH" />
+        <option name="defaultSourceRootUrl" value="file://$MODULE_DIR$/src" />
+        <option name="moduleContents">
+          <ModuleContents>
+            <option name="wildcardMetadataTypes">
+              <list>
+                <option value="AIApplication" />
+                <option value="AIApplicationConfig" />
+                <option value="ActionLauncherItemDef" />
+                <option value="ActionLinkGroupTemplate" />
+                <option value="AnalyticSnapshot" />
+                <option value="AnimationRule" />
+                <option value="ApexClass" />
+                <option value="ApexComponent" />
+                <option value="ApexEmailNotifications" />
+                <option value="ApexPage" />
+                <option value="ApexTestSuite" />
+                <option value="ApexTrigger" />
+                <option value="AppMenu" />
+                <option value="ApprovalProcess" />
+                <option value="AssignmentRule" />
+                <option value="AssignmentRules" />
+                <option value="AuraDefinitionBundle" />
+                <option value="AuthProvider" />
+                <option value="AutoResponseRule" />
+                <option value="AutoResponseRules" />
+                <option value="BatchProcessJobDefinition" />
+                <option value="BlacklistedConsumer" />
+                <option value="Bot" />
+                <option value="BotVersion" />
+                <option value="BrandingSet" />
+                <option value="BriefcaseDefinition" />
+                <option value="BusinessProcess" />
+                <option value="CallCenter" />
+                <option value="CallCoachingMediaProvider" />
+                <option value="CanvasMetadata" />
+                <option value="Certificate" />
+                <option value="ChannelLayout" />
+                <option value="ChatterExtension" />
+                <option value="CleanDataService" />
+                <option value="Community" />
+                <option value="CompactLayout" />
+                <option value="ConnectedApp" />
+                <option value="ContentAsset" />
+                <option value="ConversationMessageDefinition" />
+                <option value="CorsWhitelistOrigin" />
+                <option value="CspTrustedSite" />
+                <option value="CustomApplication" />
+                <option value="CustomApplicationComponent" />
+                <option value="CustomFeedFilter" />
+                <option value="CustomField" />
+                <option value="CustomFieldTranslation" />
+                <option value="CustomHelpMenuSection" />
+                <option value="CustomIndex" />
+                <option value="CustomLabel" />
+                <option value="CustomLabels" />
+                <option value="CustomMetadata" />
+                <option value="CustomNotificationType" />
+                <option value="CustomObject" />
+                <option value="CustomObjectTranslation" />
+                <option value="CustomPageWebLink" />
+                <option value="CustomPermission" />
+                <option value="CustomSite" />
+                <option value="CustomTab" />
+                <option value="Dashboard" />
+                <option value="DataCategoryGroup" />
+                <option value="DataWeaveResource" />
+                <option value="DelegateGroup" />
+                <option value="DigitalExperienceBundle" />
+                <option value="Document" />
+                <option value="DuplicateRule" />
+                <option value="EclairGeoData" />
+                <option value="EmailServicesFunction" />
+                <option value="EmailTemplate" />
+                <option value="EmbeddedServiceBranding" />
+                <option value="EmbeddedServiceConfig" />
+                <option value="EmbeddedServiceFlowConfig" />
+                <option value="EmbeddedServiceMenuSettings" />
+                <option value="EntitlementProcess" />
+                <option value="EntitlementTemplate" />
+                <option value="EntityImplements" />
+                <option value="EscalationRule" />
+                <option value="EscalationRules" />
+                <option value="EventRelayConfig" />
+                <option value="ExperienceContainer" />
+                <option value="ExperiencePropertyTypeBundle" />
+                <option value="ExternalCredential" />
+                <option value="ExternalDataSource" />
+                <option value="ExternalDataSrcDescriptor" />
+                <option value="ExternalServiceRegistration" />
+                <option value="FeatureParameterBoolean" />
+                <option value="FeatureParameterDate" />
+                <option value="FeatureParameterInteger" />
+                <option value="FieldRestrictionRule" />
+                <option value="FieldSet" />
+                <option value="FlexiPage" />
+                <option value="Flow" />
+                <option value="FlowCategory" />
+                <option value="FlowDefinition" />
+                <option value="FlowTest" />
+                <option value="GatewayProviderPaymentMethodType" />
+                <option value="GlobalValueSet" />
+                <option value="GlobalValueSetTranslation" />
+                <option value="Group" />
+                <option value="HomePageComponent" />
+                <option value="HomePageLayout" />
+                <option value="IPAddressRange" />
+                <option value="IframeWhiteListUrlSettings" />
+                <option value="InboundNetworkConnection" />
+                <option value="Index" />
+                <option value="InstalledPackage" />
+                <option value="Layout" />
+                <option value="LeadConvertSettings" />
+                <option value="Letterhead" />
+                <option value="LightningBolt" />
+                <option value="LightningComponentBundle" />
+                <option value="LightningExperienceTheme" />
+                <option value="LightningMessageChannel" />
+                <option value="LightningOnboardingConfig" />
+                <option value="ListView" />
+                <option value="LiveChatSensitiveDataRule" />
+                <option value="MLDataDefinition" />
+                <option value="MLPredictionDefinition" />
+                <option value="MLRecommendationDefinition" />
+                <option value="ManagedContentType" />
+                <option value="MatchingRule" />
+                <option value="MatchingRules" />
+                <option value="MessagingChannel" />
+                <option value="MilestoneType" />
+                <option value="MobileApplicationDetail" />
+                <option value="MutingPermissionSet" />
+                <option value="MyDomainDiscoverableLogin" />
+                <option value="NamedCredential" />
+                <option value="NetworkBranding" />
+                <option value="NotificationTypeConfig" />
+                <option value="OauthCustomScope" />
+                <option value="OauthTokenExchangeHandler" />
+                <option value="OutboundNetworkConnection" />
+                <option value="PathAssistant" />
+                <option value="PaymentGatewayProvider" />
+                <option value="PermissionSet" />
+                <option value="PermissionSetGroup" />
+                <option value="PlatformCachePartition" />
+                <option value="PlatformEventChannel" />
+                <option value="PlatformEventChannelMember" />
+                <option value="PlatformEventSubscriberConfig" />
+                <option value="PostTemplate" />
+                <option value="ProcessFlowMigration" />
+                <option value="Profile" />
+                <option value="ProfilePasswordPolicy" />
+                <option value="ProfileSessionSetting" />
+                <option value="Prompt" />
+                <option value="Queue" />
+                <option value="QuickAction" />
+                <option value="RecommendationStrategy" />
+                <option value="RecordActionDeployment" />
+                <option value="RecordType" />
+                <option value="RedirectWhitelistUrl" />
+                <option value="RemoteSiteSetting" />
+                <option value="Report" />
+                <option value="ReportType" />
+                <option value="RestrictionRule" />
+                <option value="Role" />
+                <option value="SamlSsoConfig" />
+                <option value="Scontrol" />
+                <option value="SearchCustomization" />
+                <option value="Settings" />
+                <option value="SharingCriteriaRule" />
+                <option value="SharingGuestRule" />
+                <option value="SharingOwnerRule" />
+                <option value="SharingReason" />
+                <option value="SharingRules" />
+                <option value="SharingSet" />
+                <option value="SiteDotCom" />
+                <option value="StandardValueSet" />
+                <option value="StandardValueSetTranslation" />
+                <option value="StaticResource" />
+                <option value="SynonymDictionary" />
+                <option value="TopicsForObjects" />
+                <option value="TransactionSecurityPolicy" />
+                <option value="Translations" />
+                <option value="UserProfileSearchScope" />
+                <option value="UserProvisioningConfig" />
+                <option value="ValidationRule" />
+                <option value="WaveTemplateBundle" />
+                <option value="WebLink" />
+                <option value="Workflow" />
+                <option value="WorkflowAlert" />
+                <option value="WorkflowFieldUpdate" />
+                <option value="WorkflowKnowledgePublish" />
+                <option value="WorkflowOutboundMessage" />
+                <option value="WorkflowRule" />
+                <option value="WorkflowSend" />
+                <option value="WorkflowTask" />
+              </list>
+            </option>
+          </ModuleContents>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.sf" />
+      <excludeFolder url="file://$MODULE_DIR$/.sfdx" />
+    </content>
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (RentCarsOrg/RentCarsOrg)" jdkType="IlluminatedCloud" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

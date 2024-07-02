@@ -1,0 +1,17 @@
+<!--
+ - Created by 2lego on 21.02.2024.
+ -->
+
+<aura:component controller="AvailableCarsController" implements="flexipage:availableForAllPageTypes">
+    <!-- Attributes -->
+    <aura:attribute name="availableCars" type="Car__c[]" />
+    <!-- Initialization -->
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <!-- Display Table -->
+    <lightning:datatable
+            data="{!v.availableCars}"
+            columns="{!v.columns}"
+            keyField="Id"
+            hideCheckboxColumn="true"
+    />
+</aura:component>
